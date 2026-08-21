@@ -4,60 +4,74 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-ADS%20na%20FECAP-004a8d?style=for-the-badge&logo=education&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Estudando%20Python%20e%20IA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python%20%7C%20Web%20%7C%20IA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## 🚀 Sobre Mim
 
-Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário FECAP**. Sou apaixonado por tecnologia e atualmente estou focado em dominar **Python** e explorar o mundo da **Inteligência Artificial**.
+Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário FECAP**. Sou apaixonado por tecnologia e atualmente estou focado em expandir meus conhecimentos em desenvolvimento web (HTML, CSS, JavaScript) e Inteligência Artificial.
 
-- 🔭 Atualmente trabalhando em: **Luna AI** (Meu projeto principal ).
-- 🌱 Aprendendo: Python, Inteligência Artificial e Ciência de Dados.
-- 🎓 Estudante na: **FECAP** (Fundação Escola de Comércio Álvares Penteado).
-- 💬 Pergunte-me sobre: Python e vida acadêmica.
+- 🔭 **Trabalhando em:** Luna AI (Projeto principal de Inteligência Artificial).
+- 🌐 **Próximo Lançamento:** Novo projeto web em HTML, CSS e JavaScript (Chega por aí neste sábado!).
+- 🌱 **Aprendendo:** Python, JavaScript, HTML, CSS e Ciência de Dados.
+- 🎓 **Estudante na:** **FECAP** (Fundação Escola de Comércio Álvares Penteado).
+- 💬 **Interesses:** Desenvolvimento de software, IA e web design.
 
 ---
 
-## 🌟 Projeto em Destaque: Luna AI
+## 🛠️ Meus Projetos & Destaques
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 Luna AI</h3>
+      <p>Um assistente inteligente desenvolvido como projeto pessoal principal, explorando conceitos avançados de IA.</p>
+      <p><a href="https://github.com/paulosvlla-beep/luna">Ver Repositório</a></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Projeto Web (HTML/CSS/JS)</h3>
+      <p>Aplicação web interativa desenvolvida com foco em design responsivo e experiência de usuário. <em>(Lançamento oficial neste sábado!)</em></p>
+      <p><code>Em breve...</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663634762308/JuNLBhnNUlckckPv.jpeg" width="300px" alt="Luna AI Logo" />
-    
-
-  <h3>Luna AI</h3>
-  <p>Meu projeto pessoal e principal focado em Inteligência Artificial.</p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Skill Icons" />
 </div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🎓 Educação
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</div>
-
-### 🎓 Educação
-<div align="left">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663634762308/WGArwYyvBNcDMhHZ.png" width="150px" alt="FECAP Logo" />
-    
-
-  <span><b>Centro Universitário FECAP</b> - ADS</span>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <br>
+        <b>Centro Universitário FECAP</b><br>
+        Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)<br>
+        <em>Fundação Escola de Comércio Álvares Penteado</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🐍 Snake Game (Contribuições )
+## 🐍 Estatísticas e Contribuições
 
 <div align="center">
   <img src="https://github.com/paulosvlla-beep/paulosvlla-beep/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paulosvlla-beep&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvlla-beep&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
