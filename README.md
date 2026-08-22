@@ -29,9 +29,9 @@ Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolviment
       <p><a href="https://github.com/paulosvlla-beep/luna">Ver Repositório</a></p>
     </td>
     <td align="center" width="50%">
-      <h3>🌐 Projeto Web (HTML/CSS/JS)</h3>
-      <p>Aplicação web interativa desenvolvida com foco em design responsivo e experiência de usuário. <em>(Lançamento oficial neste sábado!)</em></p>
-      <p><code>Em breve...</code></p>
+      <h3>🌐 Site HTML, CSS e JavaScript</h3>
+      <p>Meu novo site, desenvolvido com HTML, CSS e JavaScript, com foco em design responsivo e interatividade.</p>
+      <p><a href="https://github.com/paulosvlla-beep/site-html-css-javascript">Ver Repositório</a> · <strong>Publicado hoje</strong></p>
     </td>
   </tr>
 </table>
