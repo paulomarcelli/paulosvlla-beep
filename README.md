@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004a8d&height=200&section=header&text=Olá,%20sou%20Paulo%20Marcelli&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="assets/banner.svg" alt="Paulo Marcelli" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-ADS%20na%20FECAP-004a8d?style=for-the-badge&logo=education&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python%20%7C%20Web%20%7C%20IA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ADS%20na%20FECAP-0a0204?style=for-the-badge&logoColor=ff1f3d" />
+  <img src="https://img.shields.io/badge/-Python%20%7C%20Web%20%7C%20IA-0a0204?style=for-the-badge&logo=python&logoColor=ff1f3d" />
 </div>
 
-## 🚀 Sobre Mim
+## 🔮 Sobre mim
 
 Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário FECAP**. Sou apaixonado por tecnologia e atualmente estou focado em expandir meus conhecimentos em desenvolvimento web (HTML, CSS, JavaScript) e Inteligência Artificial.
 
@@ -19,7 +19,7 @@ Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolviment
 
 ---
 
-## 🛠️ Meus Projetos & Destaques
+## ✦ Projetos
 
 <table width="100%">
   <tr>
@@ -38,7 +38,7 @@ Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolviment
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🜂 Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Skill Icons" />
@@ -46,7 +46,7 @@ Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolviment
 
 ---
 
-## 🎓 Educação
+## ✦ Educação
 
 <div align="center">
   <table>
@@ -63,31 +63,31 @@ Olá! 👋 Eu sou o **Paulo Marcelli**, estudante de **Análise e Desenvolviment
 
 ---
 
-## 🐍 Estatísticas e Contribuições
+## ✦ Estatísticas
 
 <div align="center">
   <img src="https://github.com/paulosvlla-beep/paulosvlla-beep/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulosvlla-beep&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulosvlla-beep&show_icons=true&bg_color=0a0204&title_color=ff1f3d&icon_color=ff4d6d&text_color=f6d6dc&border_color=7a0a1c&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvlla-beep&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosvlla-beep&layout=compact&bg_color=0a0204&title_color=ff1f3d&icon_color=ff4d6d&text_color=f6d6dc&border_color=7a0a1c" alt="Top Languages" />
 </div>
 
 ---
 
-## 📫 Conecte-se Comigo
+## ✦ Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paulo-marcelli-06a7bb304/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a0204?style=for-the-badge&logo=linkedin&logoColor=ff1f3d" alt="LinkedIn" />
   </a>
   <a href="mailto:paulosvlla@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0a0204?style=for-the-badge&logo=gmail&logoColor=ff1f3d" alt="Email" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004a8d&height=100&section=footer" width="100%" />
+  <sub>Projetos novos ficam no perfil <a href="https://github.com/paulomarcelli">paulomarcelli</a> e no <a href="https://github.com/paulomarcelli/Projetos">grimório de projetos</a>.</sub>
 </div>
